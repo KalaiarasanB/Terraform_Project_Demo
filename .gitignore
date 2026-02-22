@@ -9,3 +9,15 @@ terraform.tfvars
 crash.log
 *.pem
 *.png
+# Ignore other local lab folders
+Docker/
+aws-infra/
+aws/
+backend-bootstrap/
+day10/
+day11/
+day13/
+day14/
+lifecycle-day09/
+meta-data-day08/
+var-demo/
